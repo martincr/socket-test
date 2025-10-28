@@ -4,6 +4,6 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "express": "4.19.2" /* was 3.x */
+    "express": "4.20.0" /* was 3.x */
   }
 }
